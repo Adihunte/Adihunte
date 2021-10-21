@@ -4,7 +4,6 @@
 - Currently my skills are very strong theoretical and practical, but only in (Game Maker studio 2)'s language.
 - Would love to learn more (C++), (networking) and (C++ code structure).
 - My end goal is to make 2 MMOs. So any projects that give learning experience towards that is within my interest.
-- My Email = Adihunte@gmail.com
 
 <!---
 Adihunte/Adihunte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
